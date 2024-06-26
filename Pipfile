@@ -14,6 +14,15 @@ joblib = "*"
 scikit-learn = "*"
 matplotlib = "*"
 langchain = "*"
+langchain-openai = "*"
+langchain-experimental = "*"
+langchain-community = "*"
+python-dotenv = "*"
+langchainhub = "*"
+shap = "*"
+numpy = "*"
+streamlit-chat = "*"
+xgboost = "*"
 
 [dev-packages]
 
